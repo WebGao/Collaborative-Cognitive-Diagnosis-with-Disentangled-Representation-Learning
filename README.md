@@ -1,1 +1,1 @@
-# Collaborative-Cognitive-Diagnosis
+# Collaborative Cognitive Diagnosis with Disentangled Representation Learning
