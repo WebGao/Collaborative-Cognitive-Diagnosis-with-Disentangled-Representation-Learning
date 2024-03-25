@@ -10,4 +10,15 @@ Install the Python dependencies:
 pip install -r requirements.txt
 ```
 
-## Codes & Datasets (ASSIST & Junyi)
+## Datasets
+
+- ASSIST
+
+## Codes
+
+```
+/data
+ |_/ASSIST
+ |_/Junyi
+/code
+```
