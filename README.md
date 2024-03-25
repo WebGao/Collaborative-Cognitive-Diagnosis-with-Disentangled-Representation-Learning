@@ -19,6 +19,5 @@ pip install -r requirements.txt
 ```
 /data
  |_/ASSIST
- |_/Junyi
 /code
 ```
